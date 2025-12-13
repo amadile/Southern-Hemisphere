@@ -1,0 +1,410 @@
+SOFTWARE REQUIREMENTS SPECIFICATION (SRS) 
+Southern Hemisphere Foundation Website & Digital Platform 
+(Word Press CMS, SSL Hosting, Donations Integration, Branding System)  
+Purpose 
+This Software Requirements Specification (SRS) describes the complete functional, non-functional, branding, and technical requirements for the Southern Hemisphere Foundation website and digital platform. 
+The system will support the CBO’s needs in: 
+	Public awareness 
+	Donor engagement 
+	Child empowerment program visibility 
+	Community outreach 
+	Donations & sponsorship 
+	Communication 
+The goal is to build a secure, modern, mobile-responsive website using WordPress, reflecting the Foundation’s real mission, activities, and brand. 
+ 
+Scope 
+The system includes: 
+	Organization Website (Alternative to be provided) 
+	Branding system (logo, colors, motto) 
+	Media Gallery 
+	News & Blog updates 
+	Donation Portal (Mobile Money + Flutterwave) 
+	Contact forms + WhatsApp chat integration 
+	Admin dashboard for content updates 
+	Hosting with SSL + automated backups 
+Users of the system: 
+	Director / Leadership 
+	Staff/Volunteers 
+	Donors 
+	Well-wishers / Sponsors 
+	General Public 
+	Partners 
+Definitions 
+•	CMS: Content Management System 
+•	Admin: Foundation staff with login access 
+•	Donor: Any visitor who wants to make financial contributions 
+•	Program: A supported initiative (Education Support, Skills Development, Outreach) 
+•	Media: Photos or uploaded visual content 
+•	SSL: Website encryption certificate  
+Organization Background (For System Context) 
+Southern Hemisphere Foundation Profile 
+•	Name:  Southern Hemisphere Foundation (primary name)Southern Hemisphere Education Center (affiliate)
+•	Location: Bunamwaya, Makindye-Ssabagabo, Wakiso District, Uganda 
+•	Director: Musoke Ahmed Kirumira 
+•	Email: southernhemisphereeducatincen@gmail.com 
+•	Phone: +256 7626 58295 / +256 753 044889 
+•	Organization Type: Education and community-support (CBO) community based organisation
+•	Primary Focus: Supporting learners, community empowerment, education access, skills development  
+Vision 
+A future where every orphaned and vulnerable child in Uganda grows up empowered, educated, and equipped to lead a productive and fulfilling life. 
+Mission 
+To empower orphaned and underprivileged children by providing quality education, mentorship, welfare support, and skills development. 
+Objective 
+To empower orphaned and vulnerable children by addressing educational, emotional, financial, and digital barriers.  
+3.	Branding Requirements 
+Logo
+Brand Colors 
+Purpose 	Color 	Code 
+Primary 	Deep Royal Blue #0A3D62 
+Secondary 	Bright Sky Blue #3DC1D3 
+Purpose 	Color 	Code 
+Accent 	Sunshine Yellow #F6B93B 
+Complimentary 	White 	#FFFFFF 
+Optional Earth Tone Warm Green 	#78E08F  
+3.3 Motto 
+•	Building Brighter Tomorrows.  
+3.4 Director Profile
+Musoke Ahmed Kirumira
+Founder & Director – Southern Hemisphere Foundation
+Musoke Ahmed Kirumira’s journey is rooted in a simple but powerful belief: every child no matter their background deserves a chance to dream, learn, and become someone great. This conviction was born from his encounters with children in his community who faced hardship, abandonment, and limited access to education. Rather than look away, Musoke chose to act.
+In 2009, with little more than courage, personal sacrifice, and an unshakable vision, he opened a small community school that welcomed children who had nowhere else to go. He carried the weight of the mission on his shoulders often funding school activities from his own pocket, walking long distances to ensure children reached home safely, and creating a space where every learner felt seen, valued, and protected. What began with just three children became the seed that would grow into the Southern Hemisphere Foundation.
+Today, Musoke leads the Foundation with the same heart-driven purpose that fueled its beginning. His leadership blends compassion with strategy, ensuring that every program, partnership, and initiative uplifts the children and communities the Foundation serves. He continues to inspire teams, empower youth, and champion opportunities for the vulnerable turning barriers into stepping stones for countless young lives.
+Musoke’s vision remains clear: to build a future where every child can rise, and where communities thrive because no one is left behind. His story is not just one of leadership, but of love, resilience, and unwavering belief in the power of education to transform generations
+About Page 
+•	Vision, Mission, Values
+VISION 
+A future where every orphaned and vulnerable child in Uganda grows up empowered, educated, and equipped to lead a productive and fulfilling life.
+MISSION
+ To empower orphaned and underprivileged children in Uganda by providing access to quality education, mentorship, welfare support, and skills development, enabling them to reach their full potential
+OBJECTIVE
+To empower orphaned and vulnerable children by addressing educational, emotional, financial, and digital barriers, improving school attendance, learning outcomes, and life opportunities
+CORE VALUES 
+•	Compassion – Serving with empathy, kindness, and genuine care.
+•	Equity – Ensuring fairness and prioritizing the most vulnerable.
+•	Integrity – Acting with honesty, transparency, and accountability.
+•	Empowerment – Building confidence and self-reliance in children and families.
+•	Collaboration – Working together with communities and partners.
+•	Community-rootedness – Creating solutions based on real community needs.
+•	Sustainability – Promoting long-term, environmentally mindful impact.
+•	Innovation – Embracing creative and effective approaches to challenges.
+
+
+Leadership profile.
+1. Musoke Ahmed Kirumira
+Founder & Executive Director – Southern Hemisphere Foundation
+Musoke Ahmed Kirumira is the founding force and heart behind the Southern Hemisphere Foundation (SHF). A passionate champion of children’s rights, education, and community empowerment, Musoke established SHF with a simple but bold conviction: every child, no matter their background, deserves dignity, love, and a chance to thrive.
+His journey began in 2009 when, with almost no resources but an unshakable sense of purpose, he opened a small community school with only three children. For months, he personally transported learners, funded school needs from his own pocket, and mobilised volunteers laying the foundation of an organisation built on compassion, sacrifice, and service.
+Over the years, Musoke has grown SHF from a small community classroom into a steadily expanding foundation offering education support, skills development, community outreach, and child welfare programs. Through his leadership, SHF has supported hundreds of vulnerable children and families, created safe learning spaces, and cultivated partnerships with organisations such as Absa Bank, Centenary, Stanbic, The Tamales Company, and Voice Life Health Organisation.
+As Executive Director, Musoke leads the organisation’s vision, strategy, partnerships, and program development. He is known for his hands-on leadership, integrity, and ability to inspire collective action among staff, volunteers, community leaders, and development partners.
+Musoke’s mission remains deeply rooted in the values that birthed SHF: hope, opportunity, and resilience. His goal is to continue expanding access to education and life-changing opportunities for children and youth ensuring that SHF becomes a lasting pillar of support and empowerment in underserved communities.
+MUSOKE SWIDIQ
+Board Chairperson
+A dedicated educator and strong advocate for child protection, the Board Chairperson brings years of teaching experience and community service to Southern Hemisphere Foundation. His background in classroom management, child safeguarding, and mentorship gives him a deep understanding of the challenges vulnerable children face both in and out of school.
+In his role as Chairperson, he provides strategic governance, strengthens policy oversight, and ensures SHF upholds the highest standards of accountability and child-centered practice. His leadership is rooted in compassion, integrity, and a lifelong commitment to creating safe, supportive environments where every child can learn, grow, and thrive.
+NAKABUYE SHADIA
+Vice Chairperson 
+A dedicated creative professional and compassionate mentor, she has served as a school mother at Southern Hemisphere Education Centre, providing daily guidance, emotional support, and holistic care to children under SHF’s programs.
+As a fashion designer, she brings creativity, discipline, and strong organizational skills to her work with learners especially vulnerable and at-risk children giving her a deep understanding of the challenges families face and the supportive environment children need to grow and thrive.
+In her role as Vice Chairperson, she supports overall board leadership, strengthens school community relationships, and champions initiatives that promote child well-being, safety, and academic excellence across SHF’s programs.
+Musoke Shafiq
+Secretary – Board of Directors
+Mr. Shafiq is a dedicated lawyer and a strong advocate for child protection and women’s rights. With years of experience in legal practice and community justice, he brings valuable expertise in safeguarding, policy compliance, and organizational governance.
+As Secretary, he ensures that SHF maintains strong legal and ethical standards, oversees documentation, and supports the development of child-friendly policies. His commitment to justice and equity strengthens the Foundation’s mission to protect vulnerable children and empower families across the community.
+Musoke Isa
+Treasurer
+Musoke Isa is a professional Land Surveyor with strong experience in financial management and institutional accountability. He also serves as the Accounting Officer at Southern Hemisphere Education Center, where he oversees budgeting, expenditure tracking, and financial reporting.
+At SHF, Isa provides essential financial oversight, ensuring transparency, compliance, and responsible stewardship of all resources entrusted to the Foundation. His combined technical background and administrative experience help guide SHF toward sustainable growth and sound financial governance.
+AISHA MUSOKE 
+Director – Education & Child Development
+A dedicated educator and compassionate school mother at Southern Hemisphere Education Center, she brings deep experience in child development, classroom support, and learner welfare. With years of hands-on engagement in early childhood and primary education, she plays a central role in shaping SHF’s school programs, strengthening learning outcomes, and ensuring that every child receives individualized academic and emotional support.
+Her work goes beyond teaching she nurtures, mentors, and advocates for vulnerable learners, creating a safe, encouraging environment where children can thrive despite challenging backgrounds. She supports curriculum improvement, teacher coordination, and child-centered learning approaches that reflect the Foundation’s commitment to holistic education. Her passion for the wellbeing of children continues to guide SHF’s efforts in building strong, supportive learning communities.
+MARIAM MUSOKE
+Director – Community Outreach & Livelihoods
+She brings to SHF a strong background in medical practice and community health, with years of experience serving vulnerable families, children, and youth. As a medic dedicated to grassroots empowerment, she plays a central role in designing and guiding SHF’s outreach initiatives, including health education, wellness campaigns, and community support programs.
+Her work bridges healthcare and social development by ensuring that underserved households gain access not only to basic medical support but also to the knowledge and skills needed to improve their wellbeing. She is passionate about preventive health, maternal and child wellness, and strengthening community resilience. Through her leadership, SHF continues to expand its impact in promoting healthier, more empowered communities across Bunamwaya and beyond.
+Abdulhakim Bakulumpagi
+Director – Partnerships & Resource Mobilisation
+Abdulhakim Bakulumpagi is a dedicated philanthropist and environmental scientist whose passion lies in building sustainable solutions for vulnerable communities. With strong experience in environmental management, community mobilisation, and social impact leadership, he brings a unique perspective to SHF’s mission.
+He supports the Foundation by strengthening partnerships, mobilising resources, and advocating for programs that protect both children and the environment they grow up in. His commitment to creating resilient, eco-conscious communities makes him a key driver in SHF’s long-term sustainability efforts.
+ORGANIZATION HISTORY 
+OUR STORY SO FAR
+In the quiet community of Bunamwaya, Makindye–Ssabagabo, a story of compassion, courage, and transformation began long before the Southern Hemisphere Foundation (SHF) was formally established. What is now a growing beacon of hope for vulnerable children started humbly with a school, three learners, and belief that every child, regardless of background, deserves a safe place to learn, grow, and dream.
+On 3rd February 2009, the directors of what would eventually become SHF opened a small community school with only three children: one belonging to the director, one needy child who had nowhere else to go, and one paying learner whose tuition helped keep the doors open. With only two staff members and no resources to spare, the school’s foundation was built not on wealth, but on sacrifice. Every day, the director carried one of the children from Bunamwaya to Ssaguku–Mukaaga stage to meet their parents for three months straight. Transport was expensive, the school was new, and the future was uncertain, but the mission was clear: no child should be denied education or care simply because their family is struggling.
+By the end of the first term, enrollment grew from 3 to 8 children. It was a small number, but it marked the beginning of a vision that would one day expand far beyond academics. As the years passed, the directors began to witness deeper realities affecting the children under their care. Many learners came from homes marked by poverty, domestic instability, neglect, and emotional hardship. Some struggled with trauma and lacked even the most basic needs food, clothing, sanitary supplies, safe shelter, and supportive guardians. The school became a sanctuary, the teachers became counselors and the directors became guardians. It soon became clear that the children needed far more than lessons they needed protection, psychosocial support, nutrition, stability, and hope.
+Families unable to provide meals brought children to school hungry. Some learners arrived with torn cloths, others with no books, and many with heavy emotional burdens. The school began to offer counseling, meals, uniforms, and support often funded directly from the pockets of the directors. This daily experience revealed a hard truth: education without welfare is incomplete.
+A classroom cannot heal hunger, trauma, or poverty alone. 
+ Driven by compassion and a deep understanding of the community’s struggles, the directors made a life-changing decision to establish the Southern Hemisphere Foundation (SHF) to bridge the widening gap between children’s needs and the limited support systems available to poor households. What began as a school-based intervention expanded into a foundation capable of addressing issues such as ;
+	child vulnerability and abuse
+	poverty and economic hardship
+	school dropout
+	lack of healthcare and nutrition
+	domestic instability
+	climate vulnerability and poor sanitation
+With this, SHF became the humanitarian arm of the school transforming a simple learning institution into a holistic center of care. Over time, SHF developed programs designed to empower the entire community. Learners began receiving school support, counseling, mentorship, and nutrition. Families burdened by poverty received relief and guidance. Youth gained empowerment opportunities. SHF became more than a foundation, it became a lifeline.
+Every child supported, every home strengthened, and every young person guided marked another milestone in our growth. Today, SHF stands as a symbol of resilience and community-driven transformation in Bunamwaya and beyond proof that when compassion meets action, entire generations can rise.
+The story of the (SHF) is a story still being written born not out of long history, but out of urgent need, compassion, and a deep realization that children under our care required more than classroom instruction.
+In August of this very year, the proprietors of our school made a pivotal observation: many of the learners they served were carrying burdens that extended far beyond the reach of academics. A growing number faced challenges rooted in poverty, unstable home environments, lack of emotional support, and limited access to basic necessities. These were not isolated cases they were becoming a pattern, a silent cry for help from children who could not speak for themselves. 
+Recognizing this widening gap, the proprietors sat together and asked a life-changing question:
+“How can we ensure that the vulnerable children under our care receive the support they truly need?”
+The answer became the foundation. What began as a simple, genuine desire to help vulnerable learners quickly transformed into a structured vision to create an organization capable of offering long-term protection, empowerment, and holistic care. And so, in August, the (SHF) was conceived not as a charity project, but as a responsibility and a promise.
+Day after day, the proprietors witnessed learners arriving hungry, emotionally distressed, withdrawn, or struggling silently with difficult home situations. Some lacked scholastic materials, others lacked stability but all needed support that the school alone could not sustainably provide. It became clear that:
+	A school can teach,
+	But a foundation can protect.
+	A school can nurture the mind,
+	But a foundation can heal the heart.
+	A school can offer learning,
+	But a foundation can offer opportunity, welfare, and hope.
+With commitment and compassion, the proprietors chose to establish SHF as a development-focused, child-centered, community-rooted foundation dedicated to serving the vulnerable children and families in Bunamwaya and the surrounding communities. SHF was formed to:
+	rescue vulnerable learners
+	support children facing hardship
+	strengthen families
+	provide psychosocial and emotional support
+	promote education for all
+	enhance community resilience
+	stand in the gap where others have failed to reach
+What started as a school-based idea quickly grew into a broader vision for community transformation. Though SHF is young, its purpose is powerful. The foundation stands today as a symbol of new beginnings a movement created from genuine love for children and a determination to give every learner the chance to grow with dignity, stability, and hope.
+This is just the beginning.
+Our story is unfolding.
+And with every child we support, SHF writes its next chapter.
+Contact information 
+Southern Hemisphere Foundation
+Bunamwaya, Makindye, Wakiso District
+P.O. Box 126544, Kampala
+southernhemispherefoundation@gmail.com
++256 762 658 295 / +256 753 044 889
+2.	Programs Page 
+Programs
+1. Child Education Support
+Description
+The Child Education Support Program ensures that orphaned, vulnerable, and underserved children have access to quality education, emotional support, and a safe learning environment. Through school sponsorships, scholastic materials, mentorship, and community follow-ups, the program gives children the opportunity to stay in school and pursue their dreams without interruption. We work closely with caregivers, schools, and community leaders to protect each child’s well-being and academic progress.
+Goals
+•	To increase school enrollment and retention for vulnerable children.
+•	To provide learning materials, uniforms, and other essential support.
+•	To offer mentorship and guidance to help children thrive academically and socially.
+•	To reduce school dropout rates caused by poverty, abuse, or family instability.
+Program Photos
+(to be provided)
+Beneficiary Stories
+Story:
+Before joining SHF, AISHA had missed an entire year of school due to financial hardship. Through the Child Education Support Program, she received full sponsorship and mentorship. Today, AISHA is a confident Primary Seven candidate, dreaming of becoming a nurse.
+2. Skills Development Program
+Description
+The Skills Development Program empowers youth and women with practical, employable skills that increase their opportunities for income generation. Training areas include entrepreneurship, digital literacy, tailoring, hairdressing, financial literacy, and leadership development. By equipping participants with hands-on skills, the program helps build independence, confidence, and long-term economic resilience.
+Goals
+•	To equip youth and women with market-ready skills.
+•	To support participants in starting small businesses or securing jobs.
+•	To promote innovation, creativity, and self-reliance among young people.
+•	To reduce unemployment and poverty within underserved communities.
+Program Photos
+(to be provided.)
+Beneficiary Stories
+Story:
+Wasswa joined the Skills Development Program with no prior training. After three months of digital skills workshops, he secured an internship at a local company and is now earning a stable income while supporting his siblings.
+3. Community Outreach Program
+ Description
+The Community Outreach Program strengthens communities through awareness campaigns, health education, environmental initiatives, and humanitarian support. The program focuses on improving the well-being of children, youth, and families by addressing issues such as health, hygiene, gender-based violence, mental wellness, and community safety. SHF mobilizes volunteers and partners to bring services and hope to areas where they are needed most.
+Goals
+•	To raise community awareness on health, sanitation, and child protection.
+•	To provide outreach services to families in crisis or extreme vulnerability.
+•	To strengthen community participation and volunteerism.
+•	To empower communities to take collective responsibility for their well-being.
+Program Photos
+(to be provided.)
+Beneficiary Stories
+Story:
+During a community outreach in Makindye–Ssabagabo, SHF volunteers discovered an elderly grandmother caring for four grandchildren alone. Through the outreach program, the family received food, health support, and referrals for long-term assistance.
+3.	Gallery Page 
+Photos of learners (to be provided)
+Community activities (to be provided)
+School environment (to be provided)
+Automatically optimized for mobile 
+5. News/Blog Page
+News Update 1: SHF Launches New Skills Development Hub in Bunamwaya
+Southern Hemisphere Foundation has opened a small skills-training hub designed to equip youth with hands-on abilities in tailoring, and digital literacy. The hub will support over 60 young people annually, helping them access employment and entrepreneurship opportunities.
+News Update 2: Partnership With Absa Bank Strengthens Financial Literacy Programs
+SHF has partnered with Absa Bank Uganda to deliver financial literacy sessions to youth and single mothers in the community. Through the partnership, learners will receive training in savings, budgeting, and small business management.
+News Update 3: SHF Receives Textbook Support From The Tamales Company
+The Tamales, a corporate partner, has donated textbooks, storybooks, and learning aids to support classroom learning for vulnerable children at SHF Community School.
+Event 1: Community Health Outreach – March 2025
+SHF, together with Voice Life Health Organisation, will conduct a community medical outreach offering deworming, general checkups, and health education for children and mothers. The event aims to serve over 300 community members.
+Event 2: Annual Children’s Day Celebration
+The Foundation will host a fun learning day featuring games, mentorship talks, and academic awards. The event celebrates the resilience and achievements of the children in our programs.
+Event 3: Graduation Ceremony for Skills Trainees
+A graduation event will be held for youth completing courses in tailoring and  craft. Parents, partners, and the community will be invited to celebrate the trainees’ achievements
+3. Success Stories 
+Success Story 1: From Vulnerable to Valedictorian – Meet Sarah
+Sarah joined SHF in 2010 after losing both parents. Struggling academically and emotionally, she was supported with school fees, counselling, and mentorship. Today, she is one of the top-performing learners and dreams of becoming a nurse so she can give back to her community.
+Success Story 2: How Skills Training Helped Daniel Build a Future
+Daniel, a youth from Bunamwaya, enrolled in SHF’s tailoring program after dropping out of school due to financial hardship. He now runs a small tailoring business and earns enough to support his siblings. “SHF gave me a second chance at life,” he says.
+Success Story 3: Empowering Mothers Through Skills Development
+Through the women’s skills program, SHF trained a group of single mothers in tailoring . Many have now opened small shops for there products in their neighborhoods. Their increased income has improved household nutrition, education access for their children, and overall stability.
+6.	Contact Page 
+
+1. Contact Form (linked to SHF email)
+Visitors can fill in a simple form that sends all messages directly to:
+📧 southernhemispherefoundation@gmail.com
+Form fields:
+•	Full Name
+•	Email Address
+•	Phone Number (optional)
+•	Subject
+•	Message
+•	Submit Button
+Your message has been sent successfully. Our team will get back to you shortly.
+2. Map Location (Google Maps Embed)
+Location:
+Southern Hemisphere Foundation
+Bunamwaya, Makindye–Ssabagabo, Wakiso District, Uganda
+You can embed a Google map with a pin at your exact location.
+3. Phone Contacts
+📞 +256 762 658 295
+📞 +256 753 044 889
+You can display them as clickable links on mobile devices.
+4. WhatsApp Link
+To create a direct WhatsApp chat button:
+https://wa.me/256762658295
+https://wa.me/256753044889
+These open a chat immediately when clicked.
+7.	Donate Page 
+•	Mobile Money integration 
+•	Flutterwave integration 
+•	Donation categories (Education, Food Support, Skills Training)  
+4.2 Admin Features 
+Accessible via Dashboard: 
+•	Add/edit/delete news 
+Update gallery 
+Edit home page sections 
+Manage programs 
+Add pages 
+•	Manage donations records 
+•	Manage user accounts 
+•	Monthly backup and restore  
+4.3 Donation System Requirements 
+Payments 
+•	MTN Mobile Money (via API or Flutterwave) 
+•	Airtel Money 
+•	VISA/Mastercard (via Flutterwave) 
+Donation Flow 
+1.	User chooses donation amount 
+2.	User enters personal details 
+3.	Payment processed 
+4.	Confirmation message sent 
+5.	Admin receives record in backend  
+4.4 Contact & Communication 
+Contact Form Fields (for your website)
+Name
+Email
+Phone
+Message
+Submit Button
+
+Auto-Response Email (Send Immediately After Submission)
+Subject: Thank You for Contacting Southern Hemisphere Foundation
+Message Body:
+Dear {………..},
+Thank you for reaching out to Southern Hemisphere Foundation.
+Your message has been received successfully, and our team will get back to you within 24–48 hours.
+If your inquiry is urgent, please feel free to call us directly at:
+📞 +256 762 658 295
+📞 +256 753 044 889
+We appreciate your interest in our work and look forward to assisting you.
+Warm regards,
+Southern Hemisphere Foundation
+Bunamwaya, Makindye–Ssabagabo, Wakiso District
+southernhemispherefoundation@gmail.com
+
+5.	Non-Functional Requirements 
+5.1	Performance 
+•	Website loads <3 seconds 
+•	Responsive across devices 
+•	Image compression required 
+5.2	Security 
+•	SSL encryption 
+•	Daily malware scanning 
+•	WordPress security plugins 
+•	Hidden admin login (optional) 
+•	CAPTCHA on contact forms 
+5.3	Reliability 
+•	Daily automataqed backups 
+ 
+Uptime 99%+ 
+5.4	Usability 
+•	Simple, clean UI 
+•	Accessible fonts 
+•	High contrast for readability 
+•	Screen-reader friendly  
+6.	Technical Requirements 
+6.1	Hosting 
+Hosting must include: 
+•	SSL certificate 
+•	PHP 8+ 
+•	MySQL or MariaDB 
+•	2GB+ storage 
+•	Automatic backups 
+•	Email hosting 
+Recommended providers: 
+•	Hostinger 
+•	Namecheap 
+•	Bluehost 
+Domain: southernhemispherefoundation.org  
+6.2	CMS 
+•	WordPress 6+ 
+•	Elementor or Gutenberg for editing 
+•	Theme based on Foundation branding 
+6.3	Plugins Required 
+•	Elementor / Gutenberg 
+•	Yoast SEO 
+•	WPForms 
+•	WhatsApp Chat Plugin 
+•	Gallery/Slider plugin 
+•	Flutterwave payment plugin 
+•	UpdraftPlus (Backups) 
+•	Wordfence Security  
+7.	System Architecture 
+Architecture Layers 
+1.	Presentation Layer (Frontend) o 	WordPress theme o 	Elementor templates o 	HTML/CSS/JS 
+2.	Application Layer (CMS Logic) 
+o 	WordPress Core o 	Plugin logic o 	Donation processing logic 
+3. Database Layer o MySQL tables o Posts o Users o Donations o Media library 
+8.	Content Structure 
+8.1	Home Page 
+•	Banner 
+•	Featured programs 
+•	Impact stats 
+•	Mission statement 
+•	Testimonials 
+•	Donate button 
+•	Footer with social links 
+8.2	About Page 
+•	Organization history 
+•	Vision & Mission 
+•	Leadership 
+•	Values 
+8.3	Programs Page 
+Each program includes: 
+•	Title 
+•	Description 
+•	Photos 
+•	Beneficiaries  
+9.	Future Enhancements 
+•	Student sponsorship portal 
+•	Online volunteer registration 
+•	Annual reports download section 
+•	SMS donation option 
+•	Learning portal for children 
+•	Mobile app integration  
+10.	Acceptance Criteria 
+The system is complete when: 
+•	All website pages are live 
+•	Logo and brand colors are implemented 
+•	Donation gateway works end-to-end 
+•	Contact form delivers emails 
+•	WhatsApp button is functional 
+•	Gallery displays properly 
+•	Admin can update content 
+•	Site loads under 3 seconds 
+•	SSL enabled 
+•	Monthly backups confirmed   
+ 
+
+
